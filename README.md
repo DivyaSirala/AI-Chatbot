@@ -20,8 +20,8 @@ This project implements a chatbot using the OpenAI API and PyQt for the graphica
 
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/DivyaSirala/your-repository.git
-    cd your-repository
+    git clone https://github.com/DivyaSirala/AI-Chatbot.git
+    cd AI-Chabot
     ```
 
 2. **Install Dependencies:**
